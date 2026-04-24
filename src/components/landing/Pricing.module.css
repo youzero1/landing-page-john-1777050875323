@@ -71,8 +71,8 @@
 
 .highlighted {
   border-color: var(--color-primary);
-  background: linear-gradient(160deg, #f5f3ff 0%, #fff 60%);
-  box-shadow: 0 8px 40px rgba(108,99,255,0.18);
+  background: linear-gradient(160deg, #fff5ee 0%, #fff 60%);
+  box-shadow: 0 8px 40px rgba(249,115,22,0.18);
 }
 
 .popularBadge {
@@ -172,7 +172,7 @@
   background: var(--color-primary);
   color: #fff;
   border-color: var(--color-primary);
-  box-shadow: 0 4px 20px rgba(108,99,255,0.3);
+  box-shadow: 0 4px 20px rgba(249,115,22,0.3);
 }
 
 .ctaHighlighted:hover {
